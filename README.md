@@ -2,7 +2,7 @@
 
 A fully custom two-deck DJ application built in **C++17** using the **JUCE 7** framework, developed as the CM2005 Object-Oriented Programming coursework submission.
 
-![Retro DJ Screenshot](docs/screenshot.png)
+<img width="1086" height="584" alt="image" src="https://github.com/user-attachments/assets/d799fd3b-8083-491d-aef3-7a2e417d2569" />
 
 ---
 
